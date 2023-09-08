@@ -22,16 +22,16 @@ Welcome to the Learning C# repository! This repository contains various projects
 <table align="center">
   <tr>
     <td align="center" width="170">
-      <img src="https://imgs.search.brave.com/GNN-LZOrz5J3OcJ6IoiuPPHbeEIbotU-Mp2l-gYDhJU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly85dG81/bWFjLmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvc2l0ZXMvNi8y/MDIxLzA0L21pY3Jv/c29mdC12aXN1YWwt/c3R1ZGlvLTIwMjIt/bWFjLmpwZz9xdWFs/aXR5PTgyJnN0cmlw/PWFsbCZ3PTE2MDA" width="48" height="48" alt="Java" />
+      <img src="https://imgs.search.brave.com/TRh9uxeBty5GS9oLZAnDD8XgQijKyZ6kjQtcdv6Q4jA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9jLXNoYXJw/LWljb24tMjI4eDI1/Ni05bnVidzR6Ny5w/bmc" width="48" height="48" alt="Java" />
       <br>C#
     </td>
     <td align="center" width="170">
-      <img src="https://imgs.search.brave.com/GNN-LZOrz5J3OcJ6IoiuPPHbeEIbotU-Mp2l-gYDhJU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly85dG81/bWFjLmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvc2l0ZXMvNi8y/MDIxLzA0L21pY3Jv/c29mdC12aXN1YWwt/c3R1ZGlvLTIwMjIt/bWFjLmpwZz9xdWFs/aXR5PTgyJnN0cmlw/PWFsbCZ3PTE2MDA" width="45" height="45" alt="sp" />
-      <br>Spring Boot
+      <img src="https://imgs.search.brave.com/iyQ7ijfwVI3rro4CPfrgbkchX8bs95P2cwPxf5M1Ajs/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/aWNvbnNjb3V0LmNv/bS9pY29uL2ZyZWUv/cG5nLTI1Ni9mcmVl/LW1pY3Jvc29mdC1k/b3QtbmV0LTEtMTE3/NTE3OS5wbmc_Zj13/ZWJwJnc9MjU2" width="45" height="45" alt="sp" />
+      <br>.NET
     </td>
     <td align="center" width="170">
-      <img src="https://imgs.search.brave.com/5h7nXK4Z5WU0V3DJFd37_XAx7KSV8VzYn0vCu38z0FQ/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9jLXNoYXJw/LWMtaWNvbi05MTJ4/MTAyNC1qM3lpZHcz/Ny5wbmc" width="45" height="45" alt="ss" />
-      <br>Spring Security
+      <img src="https://imgs.search.brave.com/Fw4B16siSe3j5obVoLz1KROGH0akLK3hwfWnU-A2aEk/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/aW5jcmVkaWJ1aWxk/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAyMS8wMy9WUzAx/LnBuZw" width="45" height="45" alt="vc" />
+      <br>Visual Studio
     </td>
     <td align="center" width="170">
       <img src="https://imgs.search.brave.com/_WwEvOJNpeZ-lj6k6H0y-xs6DAIXgMDVzY7depwrySQ/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9qd3Qu/aW8vaW1nL3BpY19s/b2dvLnN2Zw.svg" width="45" height="45" alt="ss" />
