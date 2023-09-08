@@ -1,6 +1,9 @@
 # Learning C# Basics for .NET Framework 📚
 
-Welcome to the "Learning C# Basics for .NET Framework" repository! Whether you're an aspiring developer or someone looking to enhance their programming skills, this collection of simple C# console applications is here to assist you on your journey to mastering C#.
+Welcome to the repository! Whether you're an aspiring developer or someone looking to enhance their programming skills, this collection of simple C# console applications is here to assist you on your journey to mastering C#.
+
+![Image Alt Text](https://mmcgbl.com/wp-content/uploads/2022/03/csharpapp_work.png)
+
 
 ## Overview 🌟
 
