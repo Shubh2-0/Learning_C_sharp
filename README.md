@@ -38,8 +38,12 @@ Welcome to the Learning C# repository! This repository contains various projects
       <br>Visual Studio
     </td>
     <td align="center" width="170">
-      <img src="https://imgs.search.brave.com/_WwEvOJNpeZ-lj6k6H0y-xs6DAIXgMDVzY7depwrySQ/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9qd3Qu/aW8vaW1nL3BpY19s/b2dvLnN2Zw.svg" width="45" height="45" alt="ss" />
-      <br>JWT
+      <img src="https://github.com/Shubh2-0/Shubh2-0/blob/main/Images/github.png" width="45" height="45" alt="ss" />
+      <br>Github
+    </td>
+    <td align="center" width="170">
+      <img src="https://github.com/Shubh2-0/Shubh2-0/blob/main/Images/openAI.png" width="45" height="45" alt="ss" />
+      <br>OpenAI
     </td>
   </tr>
 </table>
