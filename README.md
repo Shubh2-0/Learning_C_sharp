@@ -30,7 +30,7 @@ Welcome to the Learning C# repository! This repository contains various projects
       <br>C#
     </td>
     <td align="center" width="170">
-      <img src="https://imgs.search.brave.com/iyQ7ijfwVI3rro4CPfrgbkchX8bs95P2cwPxf5M1Ajs/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/aWNvbnNjb3V0LmNv/bS9pY29uL2ZyZWUv/cG5nLTI1Ni9mcmVl/LW1pY3Jvc29mdC1k/b3QtbmV0LTEtMTE3/NTE3OS5wbmc_Zj13/ZWJwJnc9MjU2" width="45" height="45" alt="sp" />
+      <img src="https://imgs.search.brave.com/vcq9uOFuBLCG2LvJDj9cAyExiAE5tcvy0qwwiAaSbl8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9kb3RuZXQt/aWNvbi0yNTZ4MjU2/LW96dmp3czdvLnBu/Zw" width="45" height="45" alt="sp" />
       <br>.NET
     </td>
     <td align="center" width="170">
