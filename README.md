@@ -2,6 +2,10 @@
 
 Welcome to the Learning C# repository! This repository contains various projects to help you learn and practice C# programming. Feel free to explore the projects and use them as learning resources. 🚀
 
+![Image Alt Text](https://imgs.search.brave.com/04jbYgh6hPJf7GHLRxYoa4QHthmJvV1c3pIz_nT2Vf4/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9oYWNr/ci5pby9ibG9nL21l/ZGlhL2MtZmVhdHVy/ZXMtaW1hZ2UucG5n)
+
+
+
 ## Projects 📂
 
 ### Console App 1 🖥️
