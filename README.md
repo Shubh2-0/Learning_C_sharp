@@ -47,7 +47,7 @@ C# is a versatile and powerful programming language, and understanding its funda
       <img src="https://github.com/Shubh2-0/Shubh2-0/blob/main/Images/openAI.png" width="45" height="45" alt="ss" />
       <br>OpenAI
     </td>
-  </tr>
+  </tr> 
 </table>
 
 
