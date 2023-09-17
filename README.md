@@ -60,7 +60,7 @@ Embarking on your C# journey is simple:
    git clone https://github.com/Shubh2-0/Learning_C_sharp.git
    ```
 
-2. **Navigate** to the project folder that piques your interest:
+2. **Navigate** to the project folder that piques your interest: 
    ```
    cd Learning_C_sharp/ConsoleApp1
    ```
