@@ -18,7 +18,7 @@ C# is a versatile and powerful programming language, and understanding its funda
 ### Console App 2 🚀
 - **Description**: Building upon the knowledge from Console App 1, Console App 2 introduces more advanced topics such as loops, conditional statements, and functions.
 - **Usage**: Once you're comfortable with the basics, delve into this project to expand your understanding of C#. 📈
-
+ 
 ### Console App 3 (Work in Progress) 🛠️
 - **Description**: Console App 3 is a work in progress. It focuses on object-oriented programming (OOP) concepts in C#. While it covers OOP principles, please note that it is still pending completion, especially in areas like exception handling and advanced features.
 - **Usage**: Keep an eye on this project for updates. It will serve as a valuable resource for solidifying your grasp of OOP in C#. 🆕
