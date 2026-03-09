@@ -12,7 +12,7 @@ namespace ConsoleApp1
         // LEARNING C# 
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World");
+            Console.WriteLine("My first C# code contribution");
             Console.ReadLine();
         }
     }
