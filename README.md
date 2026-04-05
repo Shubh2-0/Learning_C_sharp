@@ -37,7 +37,7 @@ C# is a versatile and powerful programming language, and understanding its funda
     </td>
     <td align="center" width="170">
       <img src="https://imgs.search.brave.com/Fw4B16siSe3j5obVoLz1KROGH0akLK3hwfWnU-A2aEk/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/aW5jcmVkaWJ1aWxk/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAyMS8wMy9WUzAx/LnBuZw" width="45" height="45" alt="vc" />
-      <br>Visual Studio
+      <br>Visual Studio code
     </td>
     <td align="center" width="170">
       <img src="https://github.com/Shubh2-0/Shubh2-0/blob/main/Images/github.png" width="45" height="45" alt="ss" />
